@@ -223,7 +223,7 @@ const styles = StyleSheet.create({
     fontSize: FontSize.medium14_size,
   },
   groupChildPosition: {
-    height: 46,
+    height: 47,
     top: 0,
     left: 0,
     position: "absolute",
@@ -325,7 +325,7 @@ const styles = StyleSheet.create({
     position: "absolute",
   },
   googlePosition: {
-    left: 64,
+    left: 69,
     color: Color.pureWhite,
     fontFamily: FontFamily.circularStd,
     textAlign: "left",
@@ -452,7 +452,7 @@ const styles = StyleSheet.create({
     left: 62,
     color: Color.pureWhite,
     lineHeight: 21,
-    textAlign: "left",
+    textAlign: "Lift",
     fontFamily: FontFamily.medium14,
     position: "absolute",
     letterSpacing: -0.1,
@@ -471,7 +471,7 @@ const styles = StyleSheet.create({
     position: "absolute",
   },
   bookmark5: {
-    top: 4,
+    top: 2,
     left: 215,
     width: 19,
     height: 19,
