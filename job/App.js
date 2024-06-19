@@ -19,25 +19,7 @@ const App = () => {
         <Stack.Screen name="Homepage" component={Homepage} />
       </Stack.Navigator>
     </NavigationContainer>
-    /*<NavigationContainer>
-      {hideSplashScreen ? (
-        // Add splash screen component if required here
-        <View><Text>Splash Screen</Text></View>
-      ) : (
-        <Stack.Navigator screenOptions={{ headerShown: false }}>
-          <Stack.Screen
-            name="HomePage"
-            component={Homepage}
-            options={{ headerShown: false }}
-          />
-          <Stack.Screen
-            name="LogIn"
-            component={LogIn}
-            options={{ headerShown: false }}
-          />
-        </Stack.Navigator>
-      )}
-    </NavigationContainer>*/
+   
   );
 };
 
