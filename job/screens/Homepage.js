@@ -54,16 +54,7 @@ const Homepage = () => {
             contentFit="cover"
             source={require("../assets/wifi2.png")}
           />
-          <Image
-            style={[styles.mobileSignalIcon, styles.iconLayout]}
-            contentFit="cover"
-            source={require("../assets/mobile-signal2.png")}
-          />
-        </View>
-        <View style={[styles.leftSide, styles.timeLayout]}>
-          <View style={[styles.time, styles.timeLayout]}>
-            <Text style={styles.text1}>9:41</Text>
-          </View>
+      
         </View>
       </View>
       <Image
