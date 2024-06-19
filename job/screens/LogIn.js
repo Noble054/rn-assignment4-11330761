@@ -10,7 +10,7 @@ const LogIn = ({ navigation }) => {
 
   const handleLogin = () => {
     // Perform login validation here
-    const validEmail = "user@al.com";
+    const validEmail = "albert@gmail.com";
     const validPassword = "123";
 
     if (email === validEmail && password === validPassword) {
@@ -125,7 +125,7 @@ const LogIn = ({ navigation }) => {
           </View>
           <View style={[styles.leftSide, styles.timeLayout]}>
             <View style={[styles.time, styles.timeLayout]}>
-              <Text style={[styles.text, styles.textTypo]}>9:41</Text>
+           
             </View>
           </View>
         </View>
