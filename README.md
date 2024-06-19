@@ -16,10 +16,10 @@ This project is a mobile application built with React Native for job seekers to 
 ## Screenshots
 
 ![Homepage](./screenshots/Homepage.jpg)
-*Figure 1: Homepage displaying featured and popular jobs.*
+-*Figure 1: Homepage displaying featured and popular jobs.*
 
 ![LoginPage](./screenshots/Loginpage.jpg)
-*Figure 2: login details page showing specific login information.*
+-*Figure 2: login details page showing specific login information.*
 
 ## Installation
 
