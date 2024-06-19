@@ -44,12 +44,6 @@ const Homepage = () => {
           source={require("../assets/notch1.png")}
         />
         <View style={[styles.rightSide, styles.iconLayout]}>
-          <Image
-            style={[styles.batteryIcon, styles.iconLayout]}
-            contentFit="cover"
-            source={require("../assets/battery2.png")}
-          />
-      
         </View>
       </View>
       <Image
