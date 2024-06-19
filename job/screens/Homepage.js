@@ -8,9 +8,9 @@ const Homepage = () => {
     <View style={styles.homepage}>
       <View style={styles.headlineParent}>
         <Text style={[styles.headline, styles.headlineTypo]}>
-          eric@gmail.com
+          albert@gmail.com
         </Text>
-        <Text style={[styles.headline1, styles.yClr]}>Eric Atsu</Text>
+        <Text style={[styles.headline1, styles.yClr]}>Albert Tetteh</Text>
       </View>
       <Text style={styles.featuredJobs}>Featured Jobs</Text>
       <Text style={[styles.seeAll, styles.yearTypo]}>See all</Text>
