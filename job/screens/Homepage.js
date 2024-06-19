@@ -49,11 +49,6 @@ const Homepage = () => {
             contentFit="cover"
             source={require("../assets/battery2.png")}
           />
-          <Image
-            style={[styles.wifiIcon, styles.iconLayout]}
-            contentFit="cover"
-            source={require("../assets/wifi2.png")}
-          />
       
         </View>
       </View>
